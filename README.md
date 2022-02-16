@@ -44,6 +44,8 @@ En esta página, tenemos que pedir al usuario que rellene **nombre**, **apellido
  - El **nombre** y el **apellido** son obligatorios. El **segundo apellido no es obligatorio**
  - No se puede avanzar si uno de los campos obligatorios no estén rellenados/válidos.
 
+![page 1 error](./examples/page1error.png)
+(Cómo mostrar los errores)
   
 
 
