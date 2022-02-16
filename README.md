@@ -29,9 +29,10 @@ Haz un fork de este repositorio y empieza a trabajar en la prueba. Cuando lo hag
 
 ##  Objetivo
 
-Esta aplicación estará dividida en 3 páginas. En la primera página, el usuario rellenará un nombre, un apellido y un segundo apellido (opcional). La segunda página, el usuario tendrá que rellenar una contraseña, repetir la contraseña y finalmente una pista (opcional). La última página será una página de confirmación. **Todos los textos deben estar en inglés y español (i18n)**
+¡Vamos a crear un formulario! Esta aplicación estará dividida en 3 páginas. En la primera página, el usuario rellenará un nombre, un apellido y un segundo apellido (opcional). La segunda página, el usuario tendrá que rellenar una contraseña, repetir la contraseña y finalmente una pista (opcional). La última página será una página de confirmación. **Todos los textos deben estar en inglés y español (i18n)**
 
 ## Primera página
+![page 1](./examples/page1.png)
 
 La primera página debe contener el título **Crear una cuenta** y la descripción:
 **Rellene este formulario para crear su cuenta.**
