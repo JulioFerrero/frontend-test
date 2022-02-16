@@ -71,6 +71,6 @@ En esta página, tenemos que pedir al usuario que rellene **contraseña**, **rep
 ![page 3](./examples/page3.png)
 
 La tercera página debe contener el título **Cuenta creada** y la descripción:
-**Enhorabuena. ¡Has creado una cuenta con éxito!**
+**Enhorabuena {Nombre completo de la persona}. ¡Has creado una cuenta con éxito!**
 
-Esta página no tendrá campos
+Esta página no tendrá campos pero tendrás que mostrar un mensaje recordando al usuario su pista en caso de que haya rellenado una pista de contraseña.
