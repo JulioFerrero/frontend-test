@@ -59,7 +59,8 @@ La segunda página debe contener el título **Crear una cuenta** y la descripci�
 
 En esta página, tenemos que pedir al usuario que rellene **contraseña**, **repetir contraseña** y **una pista** 
 ####  Validación
-
+ - Path tiene que ser /set-password.
+ - Si intento acceder a /set-password a través de la URL sin rellenar la primera página del formulario, tengo que ser redirigido a la primera página
  - Contraseña y Repetir Contraseña tienen que ser iguales.
  - **Contraseña** y **Repetir Contraseña** son obligatorios. La **pista no es obligatorio**
  - La contraseña debe tener más de 5 caracteres, al menos un número y una letra mayúscula.
@@ -74,3 +75,7 @@ La tercera página debe contener el título **Cuenta creada** y la descripción:
 **Enhorabuena {Nombre completo de la persona}. ¡Has creado una cuenta con éxito!**
 
 Esta página no tendrá campos pero tendrás que mostrar un mensaje recordando al usuario su pista en caso de que haya rellenado una pista de contraseña.
+####  Validación
+ - Path tiene que ser /success.
+ - Si intento acceder a /success a través de la URL sin rellenar todo el formulario, debo ser redirigido a la primera página.
+ - Mostrar el recordatorio de contraseña en caso de que el usuario haya rellenado una pista de contraseña.
