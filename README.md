@@ -45,6 +45,8 @@ En esta página, tenemos que pedir al usuario que rellene **nombre**, **apellido
  - No se puede avanzar si uno de los campos obligatorios no estén rellenados/válidos.
 
 ![page 1 error](./examples/page1error.png)
+
+
 (Cómo mostrar los errores)
   
 
