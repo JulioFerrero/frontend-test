@@ -10,7 +10,7 @@ Esta prueba está diseñada para evaluar las capacidades técnicas, concretament
 
 ## ¿Cómo entregar la prueba?  
 
-Haz un fork de este repositorio y empieza a trabajar en la prueba. Cuando lo hagas, añade **visual-matthew** a tu repositorio.
+Haz un fork de este repositorio y empieza a trabajar en la prueba. Cuando ya lo tienes listo para entregar, añade **visual-matthew** a tu repositorio.
 
 
 
