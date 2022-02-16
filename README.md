@@ -16,7 +16,7 @@ Haz un fork de este repositorio y empieza a trabajar en la prueba. Cuando lo hag
 
 ## Requerimientos
 
- - Utilizar Redux
+ - Utilizar Redux & React Router
  - Implementar traducciones para cada texto. (i18n)
  - Tiene que estar maquetada correctamente
  - Se puede renombrar, quitar o añadir cualquier fichero
@@ -52,6 +52,7 @@ En esta página, tenemos que pedir al usuario que rellene **nombre**, **apellido
 
 
 ## Segunda página
+![page 2](./examples/page2.png)
 
 La segunda página debe contener el título **Crear una cuenta** y la descripción:
 **Introduzca una contraseña para crear su cuenta**
@@ -67,6 +68,7 @@ En esta página, tenemos que pedir al usuario que rellene **contraseña**, **rep
 
 
 ## Tercera página
+![page 3](./examples/page3.png)
 
 La tercera página debe contener el título **Cuenta creada** y la descripción:
 **Enhorabuena. ¡Has creado una cuenta con éxito!**
