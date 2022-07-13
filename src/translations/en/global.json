@@ -1,0 +1,29 @@
+{
+  "titleForm": "Create an account",
+  "subTitleForm": "Fill in this form to create your account.",
+  "titleAccountCreated": "Account Created",
+  "subTitleAccountCreated": "Congratulations {{fullName}}. You have successfully created an account!",
+  "clueHint": "Remember that your password hint is:",
+  "labels": {
+    "firstName": "FirstName",
+    "lastName": "LastName",
+    "secondLastName": "Second Last Name",
+    "password": "Password",
+    "repeatPassword": "Repeat Password",
+    "clue": "Clue"
+  },
+  "buttons": {
+    "next": "Next",
+    "back": "Back"
+  },
+  "warnings": {
+    "required": "Required Field",
+    "withNumbers": "Must not contain numbers",
+    "notEnoughCharacters": "Password too short",
+    "needUpCharacterAndNumber": "Password must contain at least one uppercase letter and one number",
+    "notSamePassword": "Passwords do not match",
+    "clueSameAsPassword": "Do not enter the password in the hint",
+    "notEnoughCharactersClue": "Clue too small",
+    "clueToLarge": "Clue To Large"
+  }
+}

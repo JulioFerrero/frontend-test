@@ -1,0 +1,29 @@
+{
+  "titleForm": "Crear una cuenta",
+  "subTitleForm": "Rellene este formulario para crear su cuenta.",
+  "titleAccountCreated": "Cuenta creada",
+  "subTitleAccountCreated": "Enhorabuena {{fullName}}. ¡Has creado una cuenta con éxito!",
+  "clueHint": "Recuerda que la pista de tu contraseña es:",
+  "labels": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "secondLastName": "Segundo apellido",
+    "password": "Contraseña",
+    "repeatPassword": "Repetir Contraseña",
+    "clue": "Pista"
+  },
+  "buttons": {
+    "next": "Siguiente",
+    "back": "Atrás"
+  },
+  "warnings": {
+    "required": "Campo Obligatorio",
+    "withNumbers": "No debe contener números",
+    "notEnoughCharacters": "Contraseña demasiado corta",
+    "needUpCharacterAndNumber": "La contraseña debe contener una mayúscula y un numero como mínimo",
+    "notSamePassword": "Las contraseñas no coinciden",
+    "clueSameAsPassword": "No introduzcas la contraseña en la pista",
+    "notEnoughCharactersClue": "Pista demasiado pequeña",
+    "clueToLarge": "Pista demasiado larga"
+  }
+}
